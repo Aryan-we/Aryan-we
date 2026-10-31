@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Kumar Dubey</h1>
 
 <h3 align="center">
-Software Developer | M.Tech CSE | AI/ML Enthusiast
+INDIA 🇮🇳 |M.Tech CSE 28 | B.Tech CSE’25(Distinction)|Polytechnic IT’22(Honour)| 5 Publications & 24 Citations @ResearchGate |1000+DSA solved on lc(Knight Badge)&GFG(Top 2K) 
 </h3>
 <!--
 **Aryan-we/Aryan-we** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
