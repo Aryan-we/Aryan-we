@@ -4,12 +4,11 @@
 <h3 align="center">
 INDIA 🇮🇳 |M.Tech CSE 28 | <br>B.Tech CSE’25(Distinction)|Polytechnic IT’22(Honour)| <br>5 Publications & 24 Citations @ResearchGate |<br>1000+DSA solved on lc(Knight Badge)&GFG(Top 2K) 
 </h3>
- <ul class="hide" id="hide">
-                <a href="https://aryan-we.github.io/Projects-Showcase/" style="text-decoration:none;"><li>Project Showcase</li></li></a>
+                <a href="https://aryan-we.github.io/Projects-Showcase/"><li>Project Showcase</li></li></a>
                 <a href="https://codolio.com/profile/aryankumardubey"><li>Codolio Profile</li></a>
                 <a href="https://www.researchgate.net/profile/Aryan-Dubey-7"><li>Research Gate</li></a>
                 
-            </ul>
+            
         
 <!--
 **Aryan-we/Aryan-we** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
