@@ -5,14 +5,10 @@
 INDIA 🇮🇳 |M.Tech CSE 28 | <br>B.Tech CSE’25(Distinction)|Polytechnic IT’22(Honour)| <br>5 Publications & 24 Citations @ResearchGate |<br>1000+DSA solved on lc(Knight Badge)&GFG(Top 2K) 
 </h3>
  <ul class="hide" id="hide">
-                <a href="https://aryan-we.github.io/Projects-Showcase/"><li>Project Showcase</li></li></a>
-                <a href="education.html"><li>Education</li></a>
-                <a href="hobbies.html"><li>Hobbies</li></a>
-                <a href="projects.html"><li>Projects</li></a>
-                <a href="achievement.html"><li>Achievement</li></a>
-                <a href="contactme.html"><li>Contact Me</li></a>
-                <a href="https://codolio.com/profile/aryankumardubey"><li>Coding Profile</li></a>
-                <a href="#" onclick="hid()"><li>X</li></a>
+                <a href="https://aryan-we.github.io/Projects-Showcase/" style="text-decoration:none;"><li>Project Showcase</li></li></a>
+                <a href="https://codolio.com/profile/aryankumardubey"><li>Codolio Profile</li></a>
+                <a href="https://www.researchgate.net/profile/Aryan-Dubey-7"><li>Research Gate</li></a>
+                
             </ul>
         
 <!--
