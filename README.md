@@ -3,7 +3,7 @@
 <div align="center">
 <img src="aryan.webp" alter="img" width="50%" height="1000px" ></div>
 <h3 align="center"> 
-INDIA 🇮🇳 |M.Tech CSE 28 | <br>B.Tech CSE’25(Distinction)|Polytechnic IT’22(Honour)| <br>5 Publications & 24 Citations @ResearchGate |<br>1000+DSA solved on lc(Knight Badge)&GFG(Top 2K) 
+INDIA 🇮🇳 |M.Tech CSE'28 | <br>B.Tech CSE’25(Distinction)|Polytechnic IT’22(Honour)| <br>5 Publications & 24 Citations @ResearchGate |<br>1000+DSA solved on lc(Knight Badge)&GFG(top 2K) 
 </h3>
                 <a href="https://aryan-we.github.io/Projects-Showcase/" font="red"><li>Project Showcase</li></li></a>
                 <a href="https://codolio.com/profile/aryankumardubey"><li>Codolio Profile</li></a>
