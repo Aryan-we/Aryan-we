@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aryan Kumar Dubey</h1>
-<img src="aryan.webp" alter="img" width="50%" height="1000px" align="center">
+<div align="center">
+<img src="aryan.webp" alter="img" width="50%" height="1000px" ></div>
 <h3 align="center"> 
 INDIA 🇮🇳 |M.Tech CSE 28 | <br>B.Tech CSE’25(Distinction)|Polytechnic IT’22(Honour)| <br>5 Publications & 24 Citations @ResearchGate |<br>1000+DSA solved on lc(Knight Badge)&GFG(Top 2K) 
 </h3>
